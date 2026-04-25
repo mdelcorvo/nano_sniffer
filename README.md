@@ -1,4 +1,4 @@
-# Nano Sniffer <img src="img/nano_sniffer.logo.png" width="200" align="right" />
+# Nano Sniffer <img src="img/nano_sniffer.png" width="200" align="right" />
 An ONT Amplicon-Based CNV detection tool using a negative control and intra-sample coverage normalization
 
 1. Purpose
