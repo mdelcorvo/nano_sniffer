@@ -2,7 +2,7 @@
 
 Nano Sniffer is a bioinformatics tool for detecting copy number variations (CNVs) in Oxford Nanopore Technologies (ONT) amplicon sequencing data using a negative control and intra-sample normalization.
 
-It is specifically designed for targeted regions such as TP53 and BRCA genes in long-read sequencing datasets.
+It is specifically designed for targeted regions in long-read sequencing datasets.
 
 **Keywords:** nanopore, ONT, CNV, amplicon sequencing, long-read sequencing, bioinformatics
 
@@ -66,8 +66,8 @@ python3 nano_sniffer.py \
 ```
 #### BED file
 ```
-chr17   7572853 7572990 TP53_12_1
-chr17   7572991 7573081 TP53_12_2
+chr1   1000000 1000100 GENE1_Ex1
+chr1   1000101 1000200 GENE1_Ex2
 ```
 
 ### 📊 Output
