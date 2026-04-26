@@ -15,7 +15,7 @@ It is specifically designed for targeted regions such as TP53 and BRCA genes in 
 - [How to run](#️-how-to-run)
 - [Input format](#-input-format)
 - [Output](#-output)
-- [Notes](#-notes)
+
 
 ---
 
