@@ -8,8 +8,7 @@ An ONT Amplicon-Based CNV detection tool using a negative control and intra-samp
 - [How to run](#-how-to-run)
 - [Input format](#-input-format)
 - [Output](#-output)
-- [Notes](#-notes)
-- 
+
   
 ## How to install and use Nano Sniffer
 
