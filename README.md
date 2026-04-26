@@ -19,7 +19,7 @@ It is specifically designed for targeted regions such as TP53 and BRCA genes in 
 
 ---
 
-  
+
 ## How to install and use Nano Sniffer
 
 You need to install first the required Python dependencies. The tool has been developed and tested with Python ≥ 3.9.
