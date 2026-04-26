@@ -1,5 +1,7 @@
 # Nano Sniffer <img src="img/nano_sniffer.png" width="200" align="right" />
-An ONT Amplicon-Based CNV detection tool using a negative control and intra-sample coverage normalization
+Nano Sniffer is a bioinformatics tool for detecting copy number variations (CNVs) in Oxford Nanopore (ONT) amplicon sequencing data using a negative control and intra-sample normalization.
+
+**Keywords:** nanopore, ONT, CNV, amplicon sequencing, long-read sequencing, bioinformatics
 
 ## Contents
 
